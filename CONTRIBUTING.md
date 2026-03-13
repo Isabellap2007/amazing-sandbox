@@ -17,3 +17,4 @@ Notes and usage details for amazing-sandbox.
 - clarify the setup steps
 - add a note about the defaults
 - add a note about the defaults
+- add a note about the defaults
